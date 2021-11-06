@@ -1,0 +1,1694 @@
+1: [
+    Name: Abrasion -> Abrieb,
+    Max Level: 2,
+    Type: Normal,
+    Default Items: Swords + Axes,
+    Description: Damages your opponents armor
+  ],
+  2: [
+    Name: Arcanic -> Arkanisch,
+    Max Level: 6,
+    Type: Normal,
+    Default Items: Armor,
+    Description: Chance to ignore potion damage
+  ],
+  3: [
+    Name: Beheading -> Enthauptung,
+    Max Level: 3,
+    Type: Normal,
+    Default Items: Swords + Axes,
+    Description: Chance of getting player or mob head
+  ],
+  4: [
+    Name: Blast Mining -> Sprengbergbau,
+    Max Level: 1,
+    Type: Normal,
+    Default Items: Pickaxes,
+    Description: Mines blocks in a 3x3 area
+  ],
+  5: [
+    Name: Bleed -> Bluten,
+    Max Level: 7,
+    Type: Normal,
+    Default Items: Swords,
+    Description: Causes your opponent to bleed, damaging them repeatedly
+  ],
+  6: [
+    Name: Boss Hunter -> Boss-Jäger,
+    Max Level: 8,
+    Type: Normal,
+    Default Items: Bows + Crossbows,
+    Description: Increases damage against bosses
+  ],
+  7: [
+    Name: Butchering -> Schlachten,
+    Max Level: 5,
+    Type: Normal,
+    Default Items: Swords + Axes,
+    Description: Increases damage against passive mobs
+  ],
+  8: [
+    Name: Cerebral -> Gehirn,
+    Max Level: 8,
+    Type: Normal,
+    Default Items: Bows + Crossbows,
+    Description: Increases damage on headshots
+  ],
+  9: [
+    Name: Collateral -> Sicherheit,
+    Max Level: 4,
+    Type: Normal,
+    Default Items: Bows,
+    Description: Arrows can go through entities
+  ],
+  10: [
+    Name: Criticals -> Kritik,
+    Max Level: 3,
+    Type: Normal,
+    Default Items: Swords + Axes,
+    Description: Increases critical damage
+  ],
+  11: [
+    Name: Deflection -> Ablenkung,
+    Max Level: 6,
+    Type: Normal,
+    Default Items: Shields,
+    Description: Rebounds some incoming damage back to your attacker
+  ],
+  12: [
+    Name: Defusion -> Entfusion,
+    Max Level: 5,
+    Type: Normal,
+    Default Items: Swords + Axes,
+    Description: Increases damage against creepers
+  ],
+  13: [
+    Name: Dexterous -> Geschick,
+    Max Level: 2,
+    Type: Normal,
+    Default Items: Swords + Axes,
+    Description: Increases attack speed
+  ],
+  14: [
+    Name: Drill -> Bohren,
+    Max Level: 5,
+    Type: Normal,
+    Default Items: Tools,
+    Description: Mines blocks behind other blocks
+  ],
+  15: [
+    Name: Electroshock -> Elektroschock,
+    Max Level: 3,
+    Type: Normal,
+    Default Items: Shields,
+    Description: Chance to strike lightning on your attacker
+  ],
+  16: [
+    Name: Ender Slayer -> Endertöter,
+    Max Level: 5,
+    Type: Normal,
+    Default Items: Swords + Axes,
+    Description: Increases damage against end mobs
+  ],
+  17: [
+    Name: Evasion -> Ausweichen,
+    Max Level: 3,
+    Type: Normal,
+    Default Items: Armor,
+    Description: Chance to ignore incoming damage
+  ],
+  18: [
+    Name: Extinguishing -> Auslöschen,
+    Max Level: 3,
+    Type: Normal,
+    Default Items: Armor,
+    Description: Chance to remove fire when taking fire damage
+  ],
+  19: [
+    Name: Extract -> Extrakt,
+    Max Level: 6,
+    Type: Normal,
+    Default Items: Tridents,
+    Description: Heals a portion of damage dealt
+  ],
+  20: [
+    Name: Farmhand -> Knecht,
+    Max Level: 2,
+    Type: Normal,
+    Default Items: Hoes,
+    Description: Till blocks around initial blocks
+  ],
+  21: [
+    Name: Finishing -> Abschluss,
+    Max Level: 5,
+    Type: Normal,
+    Default Items: Swords,
+    Description: Chance to instantly kill entities on low health
+  ],
+  22: [
+    Name: Fire Affinity -> Feueraffinität,
+    Max Level: 7,
+    Type: Normal,
+    Default Items: Swords,
+    Description: Increases damage dealt when on fire
+  ],
+  23: [
+    Name: First Strike -> Erstschlag,
+    Max Level: 5,
+    Type: Normal,
+    Default Items: Swords,
+    Description: Increases damage dealt when entity is on max health
+  ],
+  24: [
+    Name: Flinch -> Zurückschrecken,
+    Max Level: 6,
+    Type: Normal,
+    Default Items: Shields,
+    Description: Chance to blind your attacker
+  ],
+  25: [
+    Name: Goliath -> Goliath,
+    Max Level: 8,
+    Type: Normal,
+    Default Items: Swords,
+    Description: Increases damage against entities with more health than you
+  ],
+  26: [
+    Name: Grapple -> Greifer,
+    Max Level: 2,
+    Type: Normal,
+    Default Items: Swords + Axes,
+    Description: Pulls entities towards you
+  ],
+  27: [
+    Name: Grit -> Streugut,
+    Max Level: 3,
+    Type: Normal,
+    Default Items: Armor,
+    Description: Damages your opponents weapon
+  ],
+  28: [
+    Name: Hook -> Haken,
+    Max Level: 2,
+    Type: Normal,
+    Default Items: Bows,
+    Description: Pulls entities towards you
+  ],
+  29: [
+    Name: Illusion Aspect -> Illusionsaspekt,
+    Max Level: 2,
+    Type: Normal,
+    Default Items: Swords,
+    Description: Chance to blind and nauseate opponent
+  ],
+  30: [
+    Name: Incandescence -> Glühen,
+    Max Level: 2,
+    Type: Normal,
+    Default Items: Armor,
+    Description: Light your attacker on fire
+  ],
+  31: [
+    Name: Infernal Touch -> Höllische Berührung,
+    Max Level: 1,
+    Type: Normal,
+    Default Items: Tools,
+    Description: Automatically smelt mined blocks
+  ],
+  32: [
+    Name: Inferno -> Inferno,
+    Max Level: 1,
+    Type: Normal,
+    Default Items: Tridents,
+    Description: Flaming tridents
+  ],
+  33: [
+    Name: Invigoration -> Belebung,
+    Max Level: 3,
+    Type: Normal,
+    Default Items: Armor,
+    Description: Increases outgoing damage and reduces incoming damage when low on health
+  ],
+  34: [
+    Name: Kinetic -> Kinetisch,
+    Max Level: 6,
+    Type: Normal,
+    Default Items: Elytra,
+    Description: Reduces damage taken when flying into a wall
+  ],
+  35: [
+    Name: Launch -> Start,
+    Max Level: 8,
+    Type: Normal,
+    Default Items: Elytra,
+    Description: Fireworks give a short burst of extreme speed
+  ],
+  36: [
+    Name: Leeching -> Ausbluten,
+    Max Level: 6,
+    Type: Normal,
+    Default Items: Swords + Axes,
+    Description: Heals a portion of damage dealt
+  ],
+  37: [
+    Name: Liquid Shot -> Flüssiger Schuss,
+    Max Level: 5,
+    Type: Normal,
+    Default Items: Bows + Crossbows,
+    Description: Increases damage against fiery mobs and endermen
+  ],
+  38: [
+    Name: Lumberjack -> Holzfäller,
+    Max Level: 6,
+    Type: Normal,
+    Default Items: Axes,
+    Description: Instantly cut down entire trees
+  ],
+  39: [
+    Name: Magma Walker -> Magma-Wanderer,
+    Max Level: 2,
+    Type: Normal,
+    Default Items: Boots,
+    Description: Turns lava beneath the player into obsidian
+  ],
+  40: [
+    Name: Magnetic -> Magnetisch,
+    Max Level: 4,
+    Type: Normal,
+    Default Items: Boots,
+    Description: Items and XP go towards you
+  ],
+  41: [
+    Name: Marksman -> Schütze,
+    Max Level: 1,
+    Type: Normal,
+    Default Items: Bows + Crossbows,
+    Description: Removes arrow drop
+  ],
+  42: [
+    Name: Necrotic -> Nekrotisch,
+    Max Level: 4,
+    Type: Normal,
+    Default Items: Swords,
+    Description: Wither skeletons have a higher chance to drop skulls
+  ],
+  43: [
+    Name: Nether Infusion -> Netherinfusion,
+    Max Level: 6,
+    Type: Normal,
+    Default Items: Swords,
+    Description: Increases damage dealt in the nether
+  ],
+  44: [
+    Name: Nocturnal -> Nachtaktiv,
+    Max Level: 6,
+    Type: Normal,
+    Default Items: Swords,
+    Description: Increases damage dealt at night
+  ],
+  45: [
+    Name: Optics -> Optik,
+    Max Level: 5,
+    Type: Normal,
+    Default Items: Bows + Crossbows,
+    Description: Increases damage when further from target
+  ],
+  46: [
+    Name: Oxygenate -> Sauerstoff,
+    Max Level: 8,
+    Type: Normal,
+    Default Items: Tools,
+    Description: Gain oxygen when breaking blocks underwater
+  ],
+  47: [
+    Name: Paladin -> Paladin,
+    Max Level: 3,
+    Type: Normal,
+    Default Items: Swords,
+    Description: Increases damage dealt when riding a horse
+  ],
+  48: [
+    Name: Parasitic -> Parasitär,
+    Max Level: 6,
+    Type: Normal,
+    Default Items: Ranged,
+    Description: Heals a portion of damage dealt
+  ],
+  49: [
+    Name: Parry -> Parieren,
+    Max Level: 4,
+    Type: Normal,
+    Default Items: Swords,
+    Description: Reduces incoming damage when holding item
+  ],
+  50: [
+    Name: Protector -> Schutz,
+    Max Level: 1,
+    Type: Normal,
+    Default Items: Swords + Axes,
+    Description: Prevents damaging your own pets
+  ],
+  51: [
+    Name: Proximity -> Räumliche Nähe,
+    Max Level: 5,
+    Type: Normal,
+    Default Items: Swords,
+    Description: Increases damage when closer to opponent
+  ],
+  52: [
+    Name: Rapid -> Schnell,
+    Max Level: 6,
+    Type: Normal,
+    Default Items: Bows,
+    Description: Increases bow pull speed
+  ],
+  53: [
+    Name: Reinforcement -> Verstärkung,
+    Max Level: 4,
+    Type: Normal,
+    Default Items: Elytra,
+    Description: Reduces incoming damage
+  ],
+  54: [
+    Name: Rejuvenation -> Verjüngung,
+    Max Level: 2,
+    Type: Normal,
+    Default Items: Armor,
+    Description: Increases natural regeneration speed
+  ],
+  55: [
+    Name: Replenish -> Auffüllen,
+    Max Level: 1,
+    Type: Normal,
+    Default Items: Hoes,
+    Description: Automatically replants crops
+  ],
+  56: [
+    Name: Sating -> Sättigen,
+    Max Level: 6,
+    Type: Normal,
+    Default Items: Helmets,
+    Description: Reduces hunger loss
+  ],
+  57: [
+    Name: Serrated -> Gezähnt,
+    Max Level: 5,
+    Type: Normal,
+    Default Items: Tridents,
+    Description: Trident deals additional damage
+  ],
+  58: [
+    Name: Slicing -> Schneiden,
+    Max Level: 8,
+    Type: Normal,
+    Default Items: Elytra,
+    Description: Damages entities when flown through
+  ],
+  59: [
+    Name: Spearfishing -> Speerfischen,
+    Max Level: 6,
+    Type: Normal,
+    Default Items: Tridents,
+    Description: Chance of dropping fish when tridenting water
+  ],
+  60: [
+    Name: Splash -> Spritzen,
+    Max Level: 4,
+    Type: Normal,
+    Default Items: Tridents,
+    Description: Damages entities near where trident lands but does not drop experience
+  ],
+  61: [
+    Name: Stab -> Stechen,
+    Max Level: 5,
+    Type: Normal,
+    Default Items: Tridents,
+    Description: Increases melee trident damage
+  ],
+  62: [
+    Name: Stamina -> Durchhaltevermögen,
+    Max Level: 4,
+    Type: Normal,
+    Default Items: Boots,
+    Description: Decreases hunger loss while sprinting
+  ],
+  63: [
+    Name: Stone Switcher -> Steinschalter,
+    Max Level: 6,
+    Type: Normal,
+    Default Items: Pickaxes,
+    Description: Breaking stone can drop as variants
+  ],
+  64: [
+    Name: Stray Aspect -> Streuer Aspekt,
+    Max Level: 6,
+    Type: Normal,
+    Default Items: Swords,
+    Description: Chance of slowing your opponent
+  ],
+  65: [
+    Name: Succession -> Nachfolge,
+    Max Level: 1,
+    Type: Normal,
+    Default Items: Bows,
+    Description: Shoots multiple arrows in a burst
+  ],
+  66: [
+    Name: Supercritical -> Überkritisch,
+    Max Level: 3,
+    Type: Normal,
+    Default Items: Swords,
+    Description: Small chance to deal extreme damage
+  ],
+  67: [
+    Name: Tectonic -> Tektonisch,
+    Max Level: 2,
+    Type: Normal,
+    Default Items: Boots,
+    Description: Damages nearby entities when taking fall damage
+  ],
+  68: [
+    Name: Telekinesis -> Telekinese,
+    Max Level: 1,
+    Type: Normal,
+    Default Items: Tools, Weapons, Ranged,
+    Description: Drops and xp go directly into your inventory
+  ],
+  69: [
+    Name: Thor -> Thor,
+    Max Level: 6,
+    Type: Normal,
+    Default Items: Swords,
+    Description: Chance of striking lightning on your opponent
+  ],
+  70: [
+    Name: Thrive -> Gedeihen,
+    Max Level: 2,
+    Type: Normal,
+    Default Items: Armor,
+    Description: Increases maximum health
+  ],
+  71: [
+    Name: Tornado -> Tornado,
+    Max Level: 2,
+    Type: Normal,
+    Default Items: Swords + Axes,
+    Description: Knocks your opponent into the air
+  ],
+  72: [
+    Name: Tripleshot -> Tripleshot,
+    Max Level: 1,
+    Type: Normal,
+    Default Items: Bows,
+    Description: Shoots 3 arrows
+  ],
+  73: [
+    Name: Vampire Aspect -> Vampiraspekt,
+    Max Level: 2,
+    Type: Normal,
+    Default Items: Swords,
+    Description: Chance to apply wither to your opponent
+  ],
+  74: [
+    Name: Water Aspect -> Wasseraspekt,
+    Max Level: 2,
+    Type: Normal,
+    Default Items: Swords + Axes,
+    Description: Increases damage dealt against fiery mobs and endermen
+  ],
+  75: [
+    Name: Weakening -> Schwächung,
+    Max Level: 4,
+    Type: Normal,
+    Default Items: Swords,
+    Description: Increases subsequent damage dealt to opponent
+  ],
+  76: [
+    Name: Wisdom -> Weisheit,
+    Max Level: 3,
+    Type: Normal,
+    Default Items: Tools, Weapons, Ranged,
+    Description: Increases dropped experience
+  ],
+  77: [
+    Name: Zeus -> Zeus,
+    Max Level: 6,
+    Type: Normal,
+    Default Items: Bows + Crossbows,
+    Description: Chance to strike lightning on your opponent
+  ],
+  78: [
+    Name: Aiming -> Zielen,
+    Max Level: 5,
+    Type: Special,
+    Default Items: Bows,
+    Description: Arrows hone in on your target
+  ],
+  79: [
+    Name: Bladed -> Blatt,
+    Max Level: 5,
+    Type: Special,
+    Default Items: Tridents,
+    Description: Trident deals extreme additional damage
+  ],
+  80: [
+    Name: Confusion -> Verwechslung,
+    Max Level: 4,
+    Type: Special,
+    Default Items: Swords,
+    Description: Chance to shuffle your opponents hotbar
+  ],
+  81: [
+    Name: Energizing -> Energetisierend,
+    Max Level: 3,
+    Type: Special,
+    Default Items: Tools,
+    Description: Receive a short burst of haste after breaking a block
+  ],
+  82: [
+    Name: Frenzy -> Raserei,
+    Max Level: 3,
+    Type: Special,
+    Default Items: Swords,
+    Description: Gives strength after killing an entity
+  ],
+  83: [
+    Name: Indestructibility -> Unzerstörbarkeit,
+    Max Level: 3,
+    Type: Special,
+    Default Items: Everything,
+    Description: Massively increases item durability
+  ],
+  84: [
+    Name: Instability -> Instabilität,
+    Max Level: 3,
+    Type: Special,
+    Default Items: Bows + Crossbows,
+    Description: Explosive arrows
+  ],
+  85: [
+    Name: Intellect -> Intellekt,
+    Max Level: 3,
+    Type: Special,
+    Default Items: Tools, Weapons, Ranged,
+    Description: Massively increases dropped experience
+  ],
+  86: [
+    Name: Pentashot -> Pentaschuss,
+    Max Level: 1,
+    Type: Special,
+    Default Items: Bows,
+    Description: Shoots 5 arrows
+  ],
+  87: [
+    Name: Preservation -> Erhaltung,
+    Max Level: 4,
+    Type: Special,
+    Default Items: Armor,
+    Description: Massively reduces incoming damage
+  ],
+  88: [
+    Name: Prosperity -> Wohlstand,
+    Max Level: 3,
+    Type: Special,
+    Default Items: Armor,
+    Description: Massively increases maximum health
+  ],
+  89: [
+    Name: Razor -> Rasierer,
+    Max Level: 8,
+    Type: Special,
+    Default Items: Swords,
+    Description: Massively increases damage dealt
+  ],
+  90: [
+    Name: Repairing -> Reparieren,
+    Max Level: 3,
+    Type: Special,
+    Default Items: Everything,
+    Description: Automatically repairs items when not held
+  ],
+  91: [
+    Name: Soulbound -> Seelengebunden,
+    Max Level: 1,
+    Type: Special,
+    Default Items: Everything,
+    Description: Keep this item on death
+  ],
+  92: [
+    Name: Spring -> Feder,
+    Max Level: 3,
+    Type: Special,
+    Default Items: Boots,
+    Description: Increases jump height and distance
+  ],
+  93: [
+    Name: Streamlining -> Rationalisierung,
+    Max Level: 8,
+    Type: Special,
+    Default Items: Boots,
+    Description: Increases movement speed
+  ],
+  94: [
+    Name: Curse of Calling -> Fluch der Berufung,
+    Max Level: 1,
+    Type: Curse,
+    Default Items: Armor,
+    Description: Angers all nearby mobs
+  ],
+  95: [
+    Name: Curse of Fragility -> Fluch der Zerbrechlichkeit,
+    Max Level: 1,
+    Type: Curse,
+    Default Items: Everything,
+    Description: Decreases item durability
+  ],
+  96: [
+    Name: Curse of Hunger -> Fluch des Hungers,
+    Max Level: 1,
+    Type: Curse,
+    Default Items: Helmets,
+    Description: Increases hunger loss
+  ],
+  97: [
+    Name: Curse of Permanence -> Fluch der Beständigkeit,
+    Max Level: 1,
+    Type: Curse,
+    Default Items: Everything,
+    Description: Prevents item from being modified in an anvil
+  ],
+  98: [
+    Name: Clouds Artifact -> Wolkenartefakt,
+    Max Level: 1,
+    Type: Artifact,
+    Default Items: Artifact Items,
+    Description: Creates cloud particles
+  ],
+  99: [
+    Name: Damage Artifact -> Schadensartefakt,
+    Max Level: 1,
+    Type: Artifact,
+    Default Items: Artifact Items,
+    Description: Creates damage particles
+  ],
+  100: [
+    Name: Dragon Artifact -> Drachenartefakt,
+    Max Level: 1,
+    Type: Artifact,
+    Default Items: Artifact Items,
+    Description: Creates dragon breath particles
+  ],
+  101: [
+    Name: Dust Artifact -> Staubartefakt,
+    Max Level: 1,
+    Type: Artifact,
+    Default Items: Artifact Items,
+    Description: Creates dust particles
+  ],
+  102: [
+    Name: Emerald Artifact -> Smaragd-Artefakt,
+    Max Level: 1,
+    Type: Artifact,
+    Default Items: Artifact Items,
+    Description: Creates emerald particles
+  ],
+  103: [
+    Name: Enchantment Artifact -> Verzauberungsartefakt,
+    Max Level: 1,
+    Type: Artifact,
+    Default Items: Artifact Items,
+    Description: Creates enchantment particles
+  ],
+  104: [
+    Name: End Artifact -> Endartefakt,
+    Max Level: 1,
+    Type: Artifact,
+    Default Items: Artifact Items,
+    Description: Creates end rod particles
+  ],
+  105: [
+    Name: Fire Artifact -> Feuerartefakt,
+    Max Level: 1,
+    Type: Artifact,
+    Default Items: Artifact Items,
+    Description: Creates fire particles
+  ],
+  106: [
+    Name: Heart Artifact -> Herzartefakt,
+    Max Level: 1,
+    Type: Artifact,
+    Default Items: Artifact Items,
+    Description: Creates heart particles
+  ],
+  107: [
+    Name: Honey Artifact -> Honig-Artefakt,
+    Max Level: 1,
+    Type: Artifact,
+    Default Items: Artifact Items,
+    Description: Creates dripping honey particles
+  ],
+  108: [
+    Name: Ink Artifact -> Tintenartefakt,
+    Max Level: 1,
+    Type: Artifact,
+    Default Items: Artifact Items,
+    Description: Creates ink particles
+  ],
+  109: [
+    Name: Lava Artifact -> Lava-Artefakt,
+    Max Level: 1,
+    Type: Artifact,
+    Default Items: Artifact Items,
+    Description: Creates dripping lava particles
+  ],
+  110: [
+    Name: Magic Artifact -> Magisches Artefakt,
+    Max Level: 1,
+    Type: Artifact,
+    Default Items: Artifact Items,
+    Description: Creates magic particles
+  ],
+  111: [
+    Name: Magma Artifact -> Magma-Artefakt,
+    Max Level: 1,
+    Type: Artifact,
+    Default Items: Artifact Items,
+    Description: Creates lava pop particles
+  ],
+  112: [
+    Name: Music Artifact -> Musikartefakt,
+    Max Level: 1,
+    Type: Artifact,
+    Default Items: Artifact Items,
+    Description: Creates note particles
+  ],
+  113: [
+    Name: Nether Artifact -> Netherartefakt,
+    Max Level: 1,
+    Type: Artifact,
+    Default Items: Artifact Items,
+    Description: Creates nether portal particles
+  ],
+  114: [
+    Name: Redstone Artifact -> Redstone-Artefakt,
+    Max Level: 1,
+    Type: Artifact,
+    Default Items: Artifact Items,
+    Description: Creates redstone particles
+  ],
+  115: [
+    Name: Smoke Artifact -> Rauchartefakt,
+    Max Level: 1,
+    Type: Artifact,
+    Default Items: Artifact Items,
+    Description: Creates smoke particles
+  ],
+  116: [
+    Name: Snow Artifact -> Schneeartefakt,
+    Max Level: 1,
+    Type: Artifact,
+    Default Items: Artifact Items,
+    Description: Creates snow particles
+  ],
+  117: [
+    Name: Sparkle Artifact -> Glanzartefakt,
+    Max Level: 1,
+    Type: Artifact,
+    Default Items: Artifact Items,
+    Description: Creates firework particles
+  ],
+  118: [
+    Name: Totem Artifact -> Totem-Artefakt,
+    Max Level: 1,
+    Type: Artifact,
+    Default Items: Artifact Items,
+    Description: Creates totem particles
+  ],
+  119: [
+    Name: Water Artifact -> Wasserartefakt,
+    Max Level: 1,
+    Type: Artifact,
+    Default Items: Artifact Items,
+    Description: Creates dripping water particles
+  ],
+  120: [
+    Name: Witch Artifact -> Hexenartefakt,
+    Max Level: 1,
+    Type: Artifact,
+    Default Items: Artifact Items,
+    Description: Creates witch particles
+  ],
+  121: [
+    Name: Zap Artifact -> Zap-Artefakt,
+    Max Level: 1,
+    Type: Artifact,
+    Default Items: Artifact Items,
+    Description: Creates electric particles
+  ],
+  122: [
+    Name: Aerial -> Antenne,
+    Max Level: 3,
+    Type: Normal,
+    Default Items: Bows + Crossbows,
+    Description: Increases arrow damage when you are in air
+  ],
+  123: [
+    Name: Famine -> Hungersnot,
+    Max Level: 8,
+    Type: Normal,
+    Default Items: Swords,
+    Description: Chance of giving your opponent hunger
+  ],
+  124: [
+    Name: Annihilate -> Vernichten,
+    Max Level: 2,
+    Type: Special,
+    Default Items: Swords + Axes,
+    Description: Extreme knockback
+  ],
+  125: [
+    Name: Radiance -> Glanz,
+    Max Level: 4,
+    Type: Normal,
+    Default Items: Bows + Crossbows,
+    Description: Causes entities to glow near where arrow lands
+  ],
+  126: [
+    Name: Horde -> Horde,
+    Max Level: 4,
+    Type: Normal,
+    Default Items: Swords,
+    Description: Increases damage dealt the more mobs are nearby
+  ],
+  127: [
+    Name: Vein -> Vene,
+    Max Level: 5,
+    Type: Normal,
+    Default Items: Pickaxes,
+    Description: Mine blocks in a vein
+  ],
+  128: [
+    Name: Ice Shot -> Eisschuss,
+    Max Level: 3,
+    Type: Normal,
+    Default Items: Bows + Crossbows,
+    Description: Chance of freezing your opponent
+  ],
+  129: [
+    Name: Puncture -> Punktion,
+    Max Level: 6,
+    Type: Normal,
+    Default Items: Tridents,
+    Description: Trident deals additional damage to shelled mobs
+  ],
+  130: [
+    Name: Volatile -> Flüchtig,
+    Max Level: 2,
+    Type: Special,
+    Default Items: Swords,
+    Description: Explosive sword attacks
+  ],
+  131: [
+    Name: Shockwave -> Stoßwelle,
+    Max Level: 3,
+    Type: Normal,
+    Default Items: Bows,
+    Description: Damages entities that arrows fly near
+  ],
+  132: [
+    Name: Instantaneous -> Momentan,
+    Max Level: 7,
+    Type: Normal,
+    Default Items: Tools,
+    Description: Chance of instantly breaking blocks
+  ],
+  133: [
+    Name: Freerunner -> Frei Läufer,
+    Max Level: 6,
+    Type: Normal,
+    Default Items: Boots,
+    Description: Chance to ignore fall damage
+  ],
+  134: [
+    Name: Bolt -> Bolzen,
+    Max Level: 4,
+    Type: Special,
+    Default Items: Sword,
+    Description: Chance of striking powerful lightning on your opponent
+  ],
+  135: [
+    Name: Ignite -> Entzünden,
+    Max Level: 8,
+    Type: Normal,
+    Default Items: Bows + Crossbows,
+    Description: Chance to light hit block on fire
+  ],
+  136: [
+    Name: Cleave -> Spalten,
+    Max Level: 8,
+    Type: Normal,
+    Default Items: Axes,
+    Description: Damage all entities around attacked entity
+  ],
+  137: [
+    Name: Carve -> Schnitzen,
+    Max Level: 8,
+    Type: Normal,
+    Default Items: Axes,
+    Description: Heavily damage all entities around attacked entity
+  ],
+  138: [
+    Name: Dullness -> Dumpfheit,
+    Max Level: 3,
+    Type: Normal,
+    Default Items: Swords,
+    Description: Chance of giving your opponent weakness
+  ],
+  139: [
+    Name: Toxic -> Giftig,
+    Max Level: 2,
+    Type: Normal,
+    Default Items: Swords,
+    Description: Chance to apply poison to your opponent
+  ],
+  140: [
+    Name: Water Affinity -> Wasseraffinität,
+    Max Level: 7,
+    Type: Normal,
+    Default Items: Swords,
+    Description: Increases damage dealt when in water
+  ],
+  141: [
+    Name: Forcefield -> Kraftfeld,
+    Max Level: 2,
+    Type: Normal,
+    Default Items: Armor,
+    Description: Damages all nearby monsters
+  ],
+  142: [
+    Name: Sycophant -> Schmeichler,
+    Max Level: 6,
+    Type: Normal,
+    Default Items: Shields,
+    Description: Heals a portion of damage blocked
+  ],
+  143: [
+    Name: Chopless -> Chopless,
+    Max Level: 6,
+    Type: Normal,
+    Default Items: Armor,
+    Description: Reduces damage dealt by axes
+  ],
+  144: [
+    Name: Green Thumb -> Grüner Daumen,
+    Max Level: 1,
+    Type: Normal,
+    Default Items: Hoes,
+    Description: Left clicking dirt turns it to grass
+  ],
+  145: [
+    Name: Spiked -> Spitze,
+    Max Level: 3,
+    Type: Normal,
+    Default Items: Fishing Rods,
+    Description: Hooking onto an entity will damage it
+  ],
+  146: [
+    Name: Harpoon -> Harpune,
+    Max Level: 3,
+    Type: Special,
+    Default Items: Fishing Rods,
+    Description: Hooking onto an entity will heavily damage it
+  ],
+  147: [
+    Name: Reel -> Spule,
+    Max Level: 2,
+    Type: Normal,
+    Default Items: Fishing Rods,
+    Description: Pulls entities towards you
+  ],
+  148: [
+    Name: Forcefield -> Kraftfeld,
+    Max Level: 2,
+    Type: Normal,
+    Default Items: Armor,
+    Description: Damages all nearby monsters
+  ],
+  149: [
+    Name: Shot Assist -> Schuss-Assistent,
+    Max Level: 6,
+    Type: Normal,
+    Default Items: Armor,
+    Description: Deal more damage with arrows while wearing
+  ],
+  150: [
+    Name: Frozen -> Gefroren,
+    Max Level: 6,
+    Type: Normal,
+    Default Items: Armor,
+    Description: Chance to give your attacker slowness
+  ],
+  151: [
+    Name: Disappear -> Verschwinden,
+    Max Level: 6,
+    Type: Normal,
+    Default Items: Armor,
+    Description: Go invisible if damaged on low health
+  ],
+  152: [
+    Name: Curse of Harmlessness -> Fluch der Harmlosigkeit,
+    Max Level: 1,
+    Type: Curse,
+    Default Items: Swords + Axes,
+    Description: Chance for attacks to do nothing
+  ],
+  153: [
+    Name: Fury -> Rage,
+    Max Level: 7,
+    Type: Normal,
+    Default Items: Swords,
+    Description: Chance of angering nearby monsters towards your opponent
+  ],
+  154: [
+    Name: Levitate -> Schweben,
+    Max Level: 2,
+    Type: Normal,
+    Default Items: Bows + Crossbows,
+    Description: Chance of applying levitation to your opponent
+  ],
+  155: [
+    Name: Curse of Breaklessness -> Fluch der Bruchlosigkeit,
+    Max Level: 1,
+    Type: Curse,
+    Default Items: Tools,
+    Description: Chance to prevent block breaking
+  ],
+  156: [
+    Name: Curse of Decay -> Fluch des Verfalls,
+    Max Level: 1,
+    Type: Curse,
+    Default Items: Everything,
+    Description: Automatically damages items when not held
+  ],
+  157: [
+    Name: Curse of Misfortune -> Fluch des Unglücks,
+    Max Level: 1,
+    Type: Curse,
+    Default Items: Tools,
+    Description: Chance of blocks to not drop items
+  ],
+  158: [
+    Name: Venom -> Gift,
+    Max Level: 6,
+    Type: Normal,
+    Default Items: Bows + Crossbows,
+    Description: Chance of withering your opponent
+  ],
+  159: [
+    Name: Cranial -> Kranial,
+    Max Level: 8,
+    Type: Normal,
+    Default Items: Tridents,
+    Description: Increases damage on headshots
+  ],
+  160: [
+    Name: Aquatic -> Wasser,
+    Max Level: 8,
+    Type: Normal,
+    Default Items: Tridents,
+    Description: Trident deals additional damage when shot from water
+  ],
+  161: [
+    Name: Buckshot -> Rehposten,
+    Max Level: 2,
+    Type: Normal,
+    Default Items: Bows,
+    Description: Shoots multiple arrows spread out
+  ],
+  162: [
+    Name: Diverse -> Vielfältig,
+    Max Level: 6,
+    Type: Normal,
+    Default Items: Axes,
+    Description: Increases damage dealt against players holding swords
+  ],
+  163: [
+    Name: Life Steal -> Lebensraub,
+    Max Level: 6,
+    Type: Special,
+    Default Items: Swords + Axes,
+    Description: Heals a large portion of damage dealt
+  ],
+  164: [
+    Name: Lime Artifact -> Kalk-Artefakt,
+    Max Level: 1,
+    Type: Artifact,
+    Default Items: Artifact Items,
+    Description: Creates lime particles
+  ],
+  165: [
+    Name: Force -> Macht,
+    Max Level: 8,
+    Type: Special,
+    Default Items: Bows,
+    Description: Massively increases arrow damage
+  ],
+  166: [
+    Name: End Infusion -> Endinfusion,
+    Max Level: 6,
+    Type: Normal,
+    Default Items: Swords,
+    Description: Increases damage dealt in the end
+  ],
+  167: [
+    Name: Diurnal -> Tageslicht,
+    Max Level: 6,
+    Type: Normal,
+    Default Items: Swords,
+    Description: Increases damage dealt at daytime
+  ],
+  168: [
+    Name: Marking -> Markierung,
+    Max Level: 4,
+    Type: Normal,
+    Default Items: Bows + Crossbows,
+    Description: Increases subsequent damage dealt to opponent
+  ],
+  169: [
+    Name: Corrosive -> Ätzend,
+    Max Level: 2,
+    Type: Normal,
+    Default Items: Bows + Crossbows,
+    Description: Damages your opponents armor
+  ],
+  170: [
+    Name: Wound -> Wunde,
+    Max Level: 7,
+    Type: Normal,
+    Default Items: Bows + Crossbows,
+    Description: Causes your opponent to bleed, damaging them repeatedly
+  ],
+  171: [
+    Name: Finality -> Endgültigkeit,
+    Max Level: 5,
+    Type: Normal,
+    Default Items: Bows,
+    Description: Chance to instantly kill entities on low health
+  ],
+  172: [
+    Name: Blind -> Blind,
+    Max Level: 6,
+    Type: Normal,
+    Default Items: Bows + Crossbows,
+    Description: Chance of blinding your opponent
+  ],
+  173: [
+    Name: Sickening -> Widerlich,
+    Max Level: 2,
+    Type: Normal,
+    Default Items: Bows + Crossbows,
+    Description: Chance of nauseating your opponent
+  ],
+  174: [
+    Name: Defender -> Verteidiger,
+    Max Level: 1,
+    Type: Normal,
+    Default Items: Bows + Crossbows,
+    Description: Prevents damaging your own pets
+  ],
+  175: [
+    Name: Netheric -> Netherisch,
+    Max Level: 6,
+    Type: Normal,
+    Default Items: Bows + Crossbows,
+    Description: Increases damage dealt in the nether
+  ],
+  176: [
+    Name: Enderism -> Enderismus,
+    Max Level: 6,
+    Type: Normal,
+    Default Items: Bows + Crossbows,
+    Description: Increases damage dealt in the end
+  ],
+  177: [
+    Name: Rage -> Wut,
+    Max Level: 5,
+    Type: Normal,
+    Default Items: Bows,
+    Description: Chance of angering nearby monsters towards your opponent
+  ],
+  178: [
+    Name: Impact -> Auswirkung,
+    Max Level: 3,
+    Type: Normal,
+    Default Items: Tridents,
+    Description: Small chance to deal extreme damage
+  ],
+  179: [
+    Name: Paralyze -> Lähmen,
+    Max Level: 6,
+    Type: Normal,
+    Default Items: Shields,
+    Description: Chance to give your attacker mining fatigue
+  ],
+  180: [
+    Name: Identify -> Identifizieren,
+    Max Level: 2,
+    Type: Normal,
+    Default Items: Shields,
+    Description: Chance to give your attacker glowing
+  ],
+  181: [
+    Name: Infuriate -> Wüten,
+    Max Level: 7,
+    Type: Normal,
+    Default Items: Shields,
+    Description: Chance to cause nearby mobs to attack your opponent
+  ],
+  182: [
+    Name: Atmospheric -> Atmosphärisch,
+    Max Level: 3,
+    Type: Normal,
+    Default Items: Tridents,
+    Description: Increases trident damage when you are in air
+  ],
+  183: [
+    Name: Revenant -> Wiederauferstandener,
+    Max Level: 5,
+    Type: Normal,
+    Default Items: Bows,
+    Description: Increases damage against undead mobs
+  ],
+  184: [
+    Name: Insecticide -> Insektizid,
+    Max Level: 5,
+    Type: Normal,
+    Default Items: Bows,
+    Description: Increases damage against spiders
+  ],
+  185: [
+    Name: Slaughter -> Schlachten,
+    Max Level: 5,
+    Type: Normal,
+    Default Items: Bows,
+    Description: Increases damage against passive mobs
+  ],
+  186: [
+    Name: Settle -> Siedeln,
+    Max Level: 5,
+    Type: Normal,
+    Default Items: Bows,
+    Description: Increases damage against creepers
+  ],
+  187: [
+    Name: Phantasm -> Phantasma,
+    Max Level: 5,
+    Type: Normal,
+    Default Items: Tridents,
+    Description: Increases damage against undead mobs
+  ],
+  188: [
+    Name: Arachnid -> Spinnentier,
+    Max Level: 5,
+    Type: Normal,
+    Default Items: Tridents,
+    Description: Increases damage against spiders
+  ],
+  189: [
+    Name: Pacify -> Beruhigen,
+    Max Level: 5,
+    Type: Normal,
+    Default Items: Tridents,
+    Description: Increases damage against creepers
+  ],
+  190: [
+    Name: Abattoir -> Schlachthof,
+    Max Level: 5,
+    Type: Normal,
+    Default Items: Tridents,
+    Description: Increases damage against passive mobs
+  ],
+  191: [
+    Name: Disable -> Deaktivieren,
+    Max Level: 3,
+    Type: Normal,
+    Default Items: Axes,
+    Description: Chance of giving your opponent extreme mining fatigue
+  ],
+  192: [
+    Name: Hellish -> Höllisch,
+    Max Level: 6,
+    Type: Normal,
+    Default Items: Tridents,
+    Description: Increases damage dealt in the nether
+  ],
+  193: [
+    Name: Void Affinity -> Leere Affinität,
+    Max Level: 5,
+    Type: Normal,
+    Default Items: Tridents,
+    Description: Increases damage dealt in the end
+  ],
+  194: [
+    Name: Cubism -> Kubismus,
+    Max Level: 7,
+    Type: Normal,
+    Default Items: Swords + Axes,
+    Description: Increases damage dealt against slimes and magma cubes
+  ],
+  195: [
+    Name: Quadrilateralism -> Quadrilateralismus,
+    Max Level: 7,
+    Type: Normal,
+    Default Items: Bows + Crossbows,
+    Description: Increases damage dealt against slimes and magma cubes
+  ],
+  196: [
+    Name: Lesion -> Läsion,
+    Max Level: 7,
+    Type: Normal,
+    Default Items: Tridents,
+    Description: Causes your opponent to bleed, damaging them repeatedly
+  ],
+  197: [
+    Name: Conclude -> Daraus schließen,
+    Max Level: 5,
+    Type: Normal,
+    Default Items: Tridents,
+    Description: Chace to instantly kill entities on low health
+  ],
+  198: [
+    Name: Graceful -> Anmutig,
+    Max Level: 6,
+    Type: Normal,
+    Default Items: Boots,
+    Description: Chance of getting slow falling just above hitting the ground
+  ],
+  199: [
+    Name: Block Breather -> Blockatmer,
+    Max Level: 3,
+    Type: Normal,
+    Default Items: Helmets,
+    Description: Chance to ignore suffocation damage
+  ],
+  200: [
+    Name: Voltage -> Stromspannung,
+    Max Level: 5,
+    Type: Normal,
+    Default Items: Swords,
+    Description: Increases damage dealt against opponents with iron, gold, or chain armor
+  ],
+  201: [
+    Name: Transfuse -> Übertragen,
+    Max Level: 7,
+    Type: Normal,
+    Default Items: Pickaxes,
+    Description: Breaking stone can drop as random ore
+  ],
+  202: [
+    Name: Curse of Inaccuracy -> Fluch der Ungenauigkeit,
+    Max Level: 1,
+    Type: Curse,
+    Default Items: Bows,
+    Description: Arrows fire incorrectly
+  ],
+  203: [
+    Name: Respirator -> Respirator,
+    Max Level: 6,
+    Type: Normal,
+    Default Items: Helmets,
+    Description: Reduces dragon breath damage
+  ],
+  204: [
+    Name: Fetching -> Abholen,
+    Max Level: 1,
+    Type: Normal,
+    Default Items: Helmets,
+    Description: Drops and xp from wolf kills go directly into your inventory
+  ],
+  205: [
+    Name: Economical -> Wirtschaftlich,
+    Max Level: 4,
+    Type: Normal,
+    Default Items: Elytra,
+    Description: Chance to not consume fireworks while boosting (Requires Paper!)
+  ],
+  206: [
+    Name: Ash Artifact -> Asche-Artefakt,
+    Max Level: 1,
+    Type: Artifact,
+    Default Items: Artifact Items,
+    Description: Creates basalt deltas particles (1.16+)
+  ],
+  207: [
+    Name: Soul Artifact -> Seelenartefakt,
+    Max Level: 1,
+    Type: Artifact,
+    Default Items: Artifact Items,
+    Description: Creates soul particles (1.16+)
+  ],
+  208: [
+    Name: Soul Fire Artifact -> Seelenfeuer-Artefakt,
+    Max Level: 1,
+    Type: Artifact,
+    Default Items: Artifact Items,
+    Description: Creates soul flame particles (1.16+)
+  ],
+  209: [
+    Name: Tear Artifact -> Tränenartefakt,
+    Max Level: 1,
+    Type: Artifact,
+    Default Items: Artifact Items,
+    Description: Creates crying obsidian particles (1.16+)
+  ],
+  210: [
+    Name: Warped Artifact -> Verzogenes Artefakt,
+    Max Level: 1,
+    Type: Artifact,
+    Default Items: Artifact Items,
+    Description: Creates warped forest particles (1.16+)
+  ],
+  211: [
+    Name: Crimson Artifact -> Karmesinrotes Artefakt,
+    Max Level: 1,
+    Type: Artifact,
+    Default Items: Artifact Items,
+    Description: Creates crimson forest particles (1.16+)
+  ],
+  212: [
+    Name: Backstab -> Rückenstich,
+    Max Level: 3,
+    Type: Normal,
+    Default Items: Swords + Axes,
+    Description: Increases damage when behind opponent
+  ],
+  213: [
+    Name: Dweller -> Bewohner,
+    Max Level: 3,
+    Type: Normal,
+    Default Items: Swords + Axes,
+    Description: Increases damage against illagers
+  ],
+  214: [
+    Name: Stalwart -> Standhaft,
+    Max Level: 3,
+    Type: Normal,
+    Default Items: Armor,
+    Description: Chance to get resistance for a short time when taking damage
+  ],
+  215: [
+    Name: Plasmic -> Plasmisch,
+    Max Level: 5,
+    Type: Normal,
+    Default Items: Swords,
+    Description: Increases damage dealt against opponents with diamond or netherite armor
+  ],
+  216: [
+    Name: Missile -> Rakete,
+    Max Level: 1,
+    Type: Spell,
+    Default Items: Swords,
+    Description: Shoots a wither skull
+  ],
+  217: [
+    Name: Quake -> Beben,
+    Max Level: 1,
+    Type: Spell,
+    Default Items: Swords,
+    Description: Damages all nearby entities
+  ],
+  218: [
+    Name: Vitalize -> Beleben,
+    Max Level: 1,
+    Type: Spell,
+    Default Items: Swords,
+    Description: Puts you back on max health
+  ],
+  219: [
+    Name: Dynamite -> Dynamit,
+    Max Level: 1,
+    Type: Spell,
+    Default Items: Pickaxes,
+    Description: Mines blocks in a large area
+  ],
+  220: [
+    Name: Charge -> Aufladen,
+    Max Level: 6,
+    Type: Spell,
+    Default Items: Swords,
+    Description: Launches you in the direction you're looking
+  ],
+  221: [
+    Name: Ascend -> Aufsteigen,
+    Max Level: 2,
+    Type: Spell,
+    Default Items: Swords,
+    Description: Levitates you into the air
+  ],
+  222: [
+    Name: Arborist -> Baumpfleger,
+    Max Level: 4,
+    Type: Normal,
+    Default Items: Axes + Shears,
+    Description: Get more sticks, apples, and saplings from leaves.
+  ],
+  223: [
+    Name: Lucky Catch -> Glücklicher Fang,
+    Max Level: 3,
+    Type: Normal,
+    Default Items: Fishing Rods,
+    Description: Chance to double fishing drops
+  ],
+  224: [
+    Name: Introversion -> Introvertiertheit,
+    Max Level: 5,
+    Type: Normal,
+    Default Items: Swords + Axes,
+    Description: Increases damage against players
+  ],
+  225: [
+    Name: Aversion -> Abneigung,
+    Max Level: 1,
+    Type: Normal,
+    Default Items: Helmets,
+    Description: Prevents angering endermen by looking at them
+  ],
+  226: [
+    Name: Villager Artifact -> Dorfartefakt,
+    Max Level: 1,
+    Type: Artifact,
+    Default Items: Artifact Items,
+    Description: Spawns happy villager particles
+  ],
+  227: [
+    Name: Anger Artifact -> Wut-Artefakt,
+    Max Level: 1,
+    Type: Artifact,
+    Default Items: Artifact Items,
+    Description: Spawns angry villager particles
+  ],
+  228: [
+    Name: Nautilus Artifact -> Nautilus-Artefakt,
+    Max Level: 1,
+    Type: Artifact,
+    Default Items: Artifact Items,
+    Description: Spawns nautilus particles
+  ],
+  229: [
+    Name: Sweep Artifact -> Sweep-Artefakt,
+    Max Level: 1,
+    Type: Artifact,
+    Default Items: Artifact Items,
+    Description: Spawns sweeping attack particles
+  ],
+  230: [
+    Name: Reaper -> Sensenmann,
+    Max Level: 3,
+    Type: Normal,
+    Default Items: Swords + Axes,
+    Description: Chance to prevent your opponents soulbound from working
+  ],
+  231: [
+    Name: Wood Switcher -> Holzschalter,
+    Max Level: 6,
+    Type: Normal,
+    Default Items: Axes,
+    Description: Breaking logs can drop as other logs.
+  ],
+  232: [
+    Name: Rebounding -> Rückprall,
+    Max Level: 2,
+    Type: Normal,
+    Default Items: Armor,
+    Description: Deal knockback to entities that attack you
+  ],
+  233: [
+    Name: Copper Artifact -> Kupferartefakt,
+    Max Level: 1,
+    Type: Artifact,
+    Default Items: Artifact Items,
+    Description: Creates copper particles
+  ],
+  234: [
+    Name: Glow Artifact -> Glühartefakt,
+    Max Level: 1,
+    Type: Artifact,
+    Default Items: Artifact Items,
+    Description: Creates glow particles
+  ],
+  235: [
+    Name: Light Artifact  -> Lichtartefakt,
+    Max Level: 1,
+    Type: Artifact,
+    Default Items: Artifact Items,
+    Description: Creates light particles
+  ],
+  236: [
+    Name: Skulk Artifact  -> Schädelartefakt,
+    Max Level: 1,
+    Type: Artifact,
+    Default Items: Artifact Items,
+    Description: Creates skulk vibration particles
+  ],
+  237: [
+    Name: Spark Artifact -> Funkenartefakt,
+    Max Level: 1,
+    Type: Artifact,
+    Default Items: Artifact Items,
+    Description: Creates spark particles
+  ],
+  238: [
+    Name: Spore Artifact -> Sporenartefakt,
+    Max Level: 1,
+    Type: Artifact,
+    Default Items: Artifact Items,
+    Description: Creates dripleaf spore particles
+  ],
+  239: [
+    Name: Wax Artifact -> Wachsartefakt,
+    Max Level: 1,
+    Type: Artifact,
+    Default Items: Artifact Items,
+    Description: Creates wax particles
+  ],
+  240: [
+    Name: Rain Artifact -> Regenartefakt,
+    Max Level: 1,
+    Type: Artifact,
+    Default Items: Artifact Items,
+    Description: Creates rain particles
+  ],
+  241: [
+    Name: Slime Artifact -> Schleimartefakt,
+    Max Level: 1,
+    Type: Artifact,
+    Default Items: Artifact Items,
+    Description: Creates slime particles
+  ],
+  242: [
+    Name: Dousing -> Übergießen,
+    Max Level: 8,
+    Type: Normal,
+    Default Items: Bows + Crossbows,
+    Description: Chance to put out fires on hit block
+  ]
